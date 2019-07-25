@@ -1,0 +1,14 @@
+#navbarSupportedContent {
+   display:flex;
+  
+}
+
+.navbar-nav{
+    justify-content: flex-end;
+    
+}
+
+.container{
+    padding-top: 30px;
+}
+
